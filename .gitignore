@@ -1,2 +1,7 @@
-*
+venv
+venv_activate.cmd
 !.gitignore
+.idea
+__pycache__
+result.json
+data
